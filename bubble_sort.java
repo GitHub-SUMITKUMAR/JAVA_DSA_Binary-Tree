@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Scanner;
-/*
+
 public class bubblesort {
     int arr[];
     bubblesort(int size){
@@ -54,5 +54,3 @@ public class bubblesort {
         obj.dispaly();
     }
 }
-
- */
