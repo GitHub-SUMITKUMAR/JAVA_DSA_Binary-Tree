@@ -1,5 +1,4 @@
 package com.company;
-/*
 import java.util.Scanner;
 
 public class insertionsort {
@@ -53,4 +52,3 @@ public class insertionsort {
         obj.display();
     }
 }
- */
